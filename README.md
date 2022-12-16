@@ -9,7 +9,7 @@ redchef動作環境
 
 metasploitの環境をdocker-composeでupするか、LXDのほうで制御するか。検討。
 
-<img src="[***画像のURL***](https://user-images.githubusercontent.com/49779282/208006277-df977bae-6e84-4607-af26-940085f6c271.png)" width="">
+<img src="https://user-images.githubusercontent.com/49779282/208006277-df977bae-6e84-4607-af26-940085f6c271.png" width="320">
 ![takemi2gods](https://user-images.githubusercontent.com/49779282/208006277-df977bae-6e84-4607-af26-940085f6c271.png)
 
 
