@@ -11,5 +11,5 @@ metasploitの環境をdocker-composeでupするか、LXDのほうで制御する
 
 <img src="https://user-images.githubusercontent.com/49779282/208006277-df977bae-6e84-4607-af26-940085f6c271.png" width="320">
 
-<img src="https://user-images.githubusercontent.com/49779282/208006077-37289536-3148-48ee-9594-8a8dc29feae3.jpg" width "320">
+<img src="https://user-images.githubusercontent.com/49779282/208006077-37289536-3148-48ee-9594-8a8dc29feae3.jpg" width="320">
 
