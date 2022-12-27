@@ -99,3 +99,5 @@ werkzeug==2.2.2
 wrapt==1.14.1
 zipp==3.11.0
 zope-interface==5.5.2
+scikit-learn
+gtrxl-torch
