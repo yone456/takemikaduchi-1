@@ -64,7 +64,7 @@ GTrXLの概要図である。こちらはTransformer-xlにGRUの要素入れて�
 
 ![encoder](./img/redchefcontext.png)
 
-DeepExploit learns how to exploitation by itself using advanced machine learning model called A3C.  
+RedChef＋GtrXLの手法のエンコーダ部分の図である。 
 
 
 
