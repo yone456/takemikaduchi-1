@@ -69,6 +69,10 @@ Metasploit is most famous penetration test tool in the world. It is used to **ex
 #### How to Train?  
 ![Deep Exploit](./img/redchef.png)  
 
+![GTrXL](./img/GTrXL.png)
+
+![encoder](./img/redchef_context.png)
+
 DeepExploit learns how to exploitation by itself using advanced machine learning model called A3C.  
 
 The A3C consists of **multiple neural networks**.  
@@ -184,54 +188,4 @@ Report sample is below.
  * ex) Report.  
  ![Report](./img/report.png)
 
----
 
-## Operation check environment
- * Hardware  
-   * OS: Kali Linux 2018.2  
-   * CPU: Intel(R) Core(TM) i7-6500U 2.50GHz  
-   * GPU: None  
-   * Memory: 8.0GB  
- * Software  
-   * Metasploit Framework 4.16.48-dev  
-   * Python 3.6.5rc1  
-   * beautifulsoup4==4.6.0  
-   * docopt==0.6.2  
-   * Jinja2==2.10  
-   * Keras==2.1.6  
-   * msgpack-python==0.5.6  
-   * numpy==1.13.3  
-   * pandas==0.23.0  
-   * tensorflow==1.8.0  
-
----
-
-## More information
-
-[MBSD Blog](https://www.mbsd.jp/blog/20180228.html)  
-Sorry, now Japanese only.  
-English version is coming soon.  
-
----
-
-## Reference
-* [β-VAE: LEARNING BASIC VISUAL CONCEPTS WITH A CONSTRAINED VARIATIONAL FRAMEWORK](https://openreview.net/references/pdf?id=Sy2fzU9gl&fbclid=IwAR0ToM3wj4gBJFQBkTF-rvD2RKTfmEWyBQ_So-VNZOOHWMbEJLvxxh3VfHw)
-* [Understanding disentangling in β-VAE](https://arxiv.org/abs/1804.03599)
-
----
-
-## Licence
-
-[Apache License 2.0](https://github.com/13o-bbr-bbq/machine_learning_security/blob/master/DeepExploit/LICENSE)
-
----
-
-## SNS
-
- * [Slack](https://deepexploit.slack.com/)
-
-## Developer
-
-Isao Takaesu  
-takaesu235@gmail.com  
-[https://twitter.com/bbr_bbq](https://twitter.com/bbr_bbq)
