@@ -86,7 +86,7 @@ The A3C is developped by Keras and Tensorflow that famous ML framework based on 
 Metasploit is most famous penetration test tool in the world. It is used to **execute an exploit to the target servers** based on instructions from the A3C.  
 
 #### How to Train?  
-![Deep Exploit](./img/overview_deepexploit.png)  
+![Deep Exploit](./img/redchef.png)  
 
 DeepExploit learns how to exploitation by itself using advanced machine learning model called A3C.  
 
