@@ -1,29 +1,10 @@
-![Black Hat Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2018.svg?sanitize=true)
-![Black Hat Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2018.svg?sanitize=true)
 
-# Deep Exploit
+
+# RedChef
 **Fully automatic penetration test tool using Deep Reinforcement Learning.**  
 
 ---
-### Presentation
- * February 17th,2018: [SECCON YOROZU 2018](https://2017.seccon.jp/news/seccon-yorozu.html)
- * August 9th,2018: [Black Hat USA 2018 Arsenal](https://www.blackhat.com/us-18/arsenal/schedule/index.html#deep-exploit-11908)
- * August 10th,2018: [DEF CON 26! AI Village](https://aivillage.org/posts/accepted-talks/)
- * October 24th,2018: [CSS2018](https://www.iwsec.org/ows/2018/)
- * November 3rd,2018: [AV TOKYO 2018 Hive](http://ja.avtokyo.org/avtokyo2018/event)
- * December 6th,2018: [Black Hat EURO 2018 Arsenal](https://www.blackhat.com/eu-18/arsenal/schedule/#deep-exploit-fully-automatic-penetration-test-tool-using-machine-learning-13320)  
 
-### Cooperation
- * [HITB+ AI Challenge](https://aichallenge.cyberweek.ae/)  
- 
-### Demonstration
-See the [demo page](https://github.com/13o-bbr-bbq/machine_learning_security/wiki/Demo).  
-
-### Documentation (Installation, Usage)
-See the project's [wiki](https://github.com/13o-bbr-bbq/machine_learning_security/wiki) for installation, usage and changelog.  
-
-## Overview
-DeepExploit is **fully automated penetration test tool** linked with **[Metasploit](https://www.metasploit.com/)**.  
 
 DeepExploit identifies the status of all opened ports on the target server and **executes the exploit at pinpoint using Machine Learning**. It's key features are following.  
 
@@ -75,7 +56,7 @@ DeepExploit identifies the status of all opened ports on the target server and *
 |:-----|
 | If you are interested, please use them in an environment **under your control and at your own risk**. And, if you execute the DeepExploit on systems that are not under your control, it may be considered an attack and you may have legally liability for your action. |
 
-### System component.  
+### DeepExploit System component.  
 ![System Component](./img/system_component.png)  
 
 DeepExploit consists of the **machine learning model (A3C)** and **Metasploit**.  
