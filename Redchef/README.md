@@ -71,7 +71,7 @@ Metasploit is most famous penetration test tool in the world. It is used to **ex
 
 ![GTrXL](./img/GTrXL.png)
 
-![encoder](./img/redchef_context.png)
+![encoder](./img/redchefcontext.png)
 
 DeepExploit learns how to exploitation by itself using advanced machine learning model called A3C.  
 
