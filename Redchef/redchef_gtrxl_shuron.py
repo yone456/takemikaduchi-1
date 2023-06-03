@@ -1224,14 +1224,7 @@ class Metasploit:
         f = open("nmap2_" + rhost + ".txt", 'r', encoding='UTF-8') 
         s1 = f.read()
         f.close()
-       # p = pexpect.spawn('su')
-       # p.expect("Password:")
-      #  p.sendline("HAFSuyAc6FVq")
-      #  p.expect("#")
-      #  p.sendline("nmap"+' ' + rhost)
-      #  p.expect('#')
-      #  s1 = p.before.decode(encoding='utf-8') 
-     #   print(s1) 
+  
         self.state.append(s1)
         self.state.append(rhost)
       #  import nmap3
